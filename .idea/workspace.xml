@@ -27,21 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercises.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercises.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Exercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="106">
+              <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExercisesTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ExercisesTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ExercisesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="1643">
+              <caret line="132" column="21" lean-forward="false" selection-start-line="132" selection-start-column="21" selection-end-line="132" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -181,6 +181,46 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration name="ExercisesTest.diamondTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="initial_exercises" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <option name="METHOD_NAME" value="diamondTriangleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="initial_exercises" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <option name="METHOD_NAME" value="fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="ExercisesTest.isoscelesTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="initial_exercises" />
@@ -189,6 +229,26 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
       <option name="METHOD_NAME" value="isoscelesTriangleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ExercisesTest.simpleTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="initial_exercises" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <option name="METHOD_NAME" value="simpleTriangleTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -261,9 +321,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ExercisesTest.isoscelesTriangleTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ExercisesTest.diamondTriangleTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ExercisesTest.simpleTriangleTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ExercisesTest.isoscelesTriangleTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ExercisesTest.diamondTriangleTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ExercisesTest.simpleTriangleTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ExercisesTest.isoscelesTriangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -292,51 +361,52 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 30m 10s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_diamondTriangleTest - 2018.05.17 at 07h 01m 59s.xml">
+      <configuration name="ExercisesTest.diamondTriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 30m 54s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_diamondTriangleTest - 2018.05.17 at 07h 02m 16s.xml">
+      <configuration name="ExercisesTest.diamondTriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 31m 14s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_diamondTriangleTest - 2018.05.17 at 07h 02m 36s.xml">
+      <configuration name="ExercisesTest.diamondTriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 31m 45s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_diamondTriangleTest - 2018.05.17 at 07h 05m 33s.xml">
+      <configuration name="ExercisesTest.diamondTriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 32m 02s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_diamondTriangleTest - 2018.05.17 at 07h 05m 48s.xml">
+      <configuration name="ExercisesTest.diamondTriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 32m 28s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput - 2018.05.17 at 07h 19m 13s.xml">
+      <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 32m 49s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput - 2018.05.17 at 07h 20m 48s.xml">
+      <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 34m 16s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput - 2018.05.17 at 07h 21m 31s.xml">
+      <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 34m 52s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput - 2018.05.17 at 07h 21m 49s.xml">
+      <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExercisesTest_isoscelesTriangleTest - 2018.05.17 at 01h 35m 11s.xml">
-      <configuration name="ExercisesTest.isoscelesTriangleTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput - 2018.05.17 at 07h 21m 58s.xml">
+      <configuration name="ExercisesTest.fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.42846924" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.3855508" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.50572246" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.6123033" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.43133047" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.3876967" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.49427754" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49427754" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -344,7 +414,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988604" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -363,7 +433,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -384,21 +454,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExercisesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="106">
+          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercises.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExercisesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1643">
+          <caret line="132" column="21" lean-forward="false" selection-start-line="132" selection-start-column="21" selection-end-line="132" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
