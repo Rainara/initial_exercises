@@ -1,11 +1,14 @@
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class ExercisesTest {
 
     @Test
-    public void simpleTriangleTest() {
+    public void shouldReturnASimpleTriangle() {
 
         Exercises triangle = new Exercises();
 
@@ -14,7 +17,7 @@ class ExercisesTest {
     }
 
     @Test
-    public void diamondTriangleTest() {
+    public void shouldReturnAdiamondTriangleWithMyNameInTheMiddle() {
 
         Exercises diamondTriangle = new Exercises();
 
@@ -27,7 +30,7 @@ class ExercisesTest {
     }
 
     @Test
-    public void fizzBuzzTestShouldGiveCorrectAnswerAccordingToTheInput() {
+    public void fizzBuzzTestShouldGiveCorrectAlternationOfOutputsAccordingToTheInput() {
 
         Exercises fizzBuzz = new Exercises();
 
@@ -131,6 +134,15 @@ class ExercisesTest {
                 "98\n" +
                 "Fizz\n" +
                 "Buzz\n", fizzBuzz.fizzBuzzExercise(100));
+
+    }
+
+    @Test
+    public void shouldReturnAListOfPrimeFactors() {
+
+        Exercises primeFactors = new Exercises();
+
+        assertEquals(new ArrayList<Integer>(Arrays.asList(2,3,5)), primeFactors.primeFactorsExercise(30));
 
     }
 
